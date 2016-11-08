@@ -1,0 +1,252 @@
+
+body
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+/* Top Navigation Bar
+----------------------------------------------------------------------------------------------------*/
+#top
+{
+	width: 100%;
+	height: 100px;
+	background:#b3c6c6;
+	position: fixed;
+}
+/* Sports World logo Settings
+----------------------------------------------------------------------------------------------------*/
+#logo
+{
+	
+	
+	width: 320px;
+	height: 100px;
+	float: left;
+	border-right: 1px solid #EEE;
+	font-family: 'Russo One', sans-serif;
+	position: fixed;
+}
+/* Navigation Items
+----------------------------------------------------------------------------------------------------*/
+#nav
+{	
+	text-align: center;
+	float: left;
+    padding-left: 350px;
+    font-family: 'Acme', sans-serif;
+    font-size: 18px;
+    position: fixed;
+}
+/* Navigation List Items
+----------------------------------------------------------------------------------------------------*/
+#nav ul li
+{
+	list-style: none;
+	font-weight: bold;
+
+}
+#nav ul li a
+{
+	text-align: center;
+	display: block;
+	/*color: #023332;*/
+	text-decoration: none;
+	padding: 14px 16px;
+	border-right: 1px solid #EEE;
+}
+li a
+{
+	color: #fcfcfc;
+}
+li {
+    float: left;
+
+}
+li a:hover
+{
+		color:#0b7a19;
+}
+li a.active
+{
+	background-color: #4ea3a1;
+}
+#ImgLogo
+{
+	margin-top: 0px;
+	margin-left: 0px;
+	width: 280px;
+	height: 90px;
+}
+figcaption
+{
+	font-weight: bold;
+	font-size: 25px;
+}
+figure
+{
+	padding: 0px;
+	width: 280px;
+	height: 80px;
+}
+/* Three column Designs Images and data
+----------------------------------------------------------------------------------------------------*/
+.firstDivision_img img
+{
+	width:300px;
+	height: 300px;
+	border: 1px solid #EEE;
+	vertical-align: middle;
+}
+#frst_cont
+{
+	width:100%;
+	margin:auto;
+	padding-left: 30px;
+    padding-right: 15px;
+    padding-top: 170px;
+}
+.firstDivision_data ul li,p
+{
+	font-family: 'Abhaya Libre', serif;
+	font-weight: bold;
+}
+/* Hero Unit Design
+----------------------------------------------------------------------------------------------------*/
+.sect
+{
+	text-align: center;
+	background: #cbd3cc;
+	width:100%;
+	margin:auto;
+	overflow: hidden;
+	height: 100%;
+	
+}
+div
+{
+	display: block;
+}
+.container
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+h4
+{
+	font-size: 28px;
+	font-family: 'Righteous', cursive;
+	text-shadow: 8px 4px 4px #ffffff;
+}
+h5
+{
+	font-size: 24px;
+	font-family: 'Fredoka One', cursive;
+	text-shadow: 8px 2px 4px #ffffff;
+	color: #f28a13;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
+h6
+{
+	margin: 
+}
+
+span
+{
+	font-family: 'Share Tech Mono', monospace;
+	text-shadow: 2px 2px 3px #24913d;
+	font-weight: bold;
+	font-size: 16px;
+}
+/* Brand names in Hero unit
+----------------------------------------------------------------------------------------------------*/
+.brands img
+{
+	width: 140px;
+	height: 140px;
+}
+.Sect_last
+{
+text-align: center;
+margin: auto;	
+}
+.Sect_last_image
+{
+	padding-right: 100px;
+	width:400px;
+	height: 400px;
+}
+.Sect_last_data
+{
+	
+	text-align: left;
+}
+.Sect_last_data p
+{
+	font-weight:normal;
+}
+.Sect_last_data h5
+{
+	color:#3b873f;
+	margin-top: 0px;
+}
+.Sect_last_data h4
+{
+
+	margin-bottom: 0px;
+}
+.left_data
+{
+	padding:0px 0px;
+}
+.right_image
+{
+	padding:0px 0px;
+}
+/* Footer Design
+----------------------------------------------------------------------------------------------------*/
+footer
+{
+	width: 100%;
+	height: 120px;
+	background:#b3c6c6;
+	text-align: center;
+	margin:auto;
+}
+
+footer i
+{
+	padding: 10px 10px;
+	text-align: center;
+	text-shadow: 2px 2px 4px #ffffff;
+
+}
+.follow
+{
+	font-size: 15px;
+	font-family: 'Fredoka One', cursive;
+
+}
+/* font awosame logos design
+----------------------------------------------------------------------------------------------------*/
+footer  .fa-google-plus
+{
+	color:#f42202;
+}
+footer  .fa-facebook
+{
+	color:#061799;
+}
+footer  .fa-twitter
+{
+	color:#2defef;
+}
+
+footer  .fa-linkedin-square
+{
+	color:#236299;
+}
+
+

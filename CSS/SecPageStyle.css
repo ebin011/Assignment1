@@ -1,0 +1,269 @@
+body
+{
+	background-image: url("../Img/SecPage/sport_2.jpg");
+	padding: 0px;
+	margin: 0px;
+}
+/* Navigaion bar design
+----------------------------------------------------------------------------------------------------*/
+#top
+{
+	width: 100%;
+	height: 100px;
+	background:#b3c6c6;
+	position: fixed;
+}
+#logo
+{
+	
+	
+	width: 320px;
+	height: 100px;
+	float: left;
+	border-right: 1px solid #EEE;
+	font-family: 'Russo One', sans-serif;
+	position: fixed;
+}
+#nav
+{	
+	text-align: center;
+	float: left;
+    padding-left: 350px;
+    font-family: 'Acme', sans-serif;
+    font-size: 18px;
+    position: fixed;
+}
+#nav ul li
+{
+	list-style: none;
+	font-weight: bold;
+
+}
+#nav ul li a
+{
+	text-align: center;
+	display: block;
+	text-decoration: none;
+	padding: 14px 16px;
+	border-right: 1px solid #EEE;
+}
+li a
+{
+	color: #fcfcfc;
+}
+li {
+    float: left;
+
+}
+
+li a:hover
+{
+	color:#0b7a19;
+}
+li a.active
+{
+	background-color: #4ea3a1;
+}
+/*  logos design
+----------------------------------------------------------------------------------------------------*/
+#ImgLogo
+{
+	margin-top: 0px;
+	margin-left: 0px;
+	width: 280px;
+	height: 90px;
+}
+figcaption
+{
+	font-weight: bold;
+	font-size: 25px;
+}
+figure
+{
+	padding: 0px;
+	width: 280px;
+	height: 80px;
+}
+/* searchbox Bar design
+----------------------------------------------------------------------------------------------------*/
+.brand_top
+{
+	width:100%;
+	height: 40px;
+	padding-top: 10px;
+	padding-bottom: 10PX;
+	margin-top: 100px;
+	background-color: #747574;
+	
+	position: fixed;
+	text-align: center;
+
+}
+label
+{
+	font-size:25px;
+	color: #ffffff;
+	margin: 0px;
+
+	
+}
+#txtbox
+{
+	font-size: 18px;
+	width: 500px;
+	height: 35px;
+	
+}
+#btn
+{
+	width: 100px;
+	height: 35px;
+	background-color: #256d04;
+	color: #ffffff;
+	border: 2px solid;
+    border-radius: 25px;
+
+}
+#btn:hover
+{
+	cursor: pointer;
+}
+
+/* Image gallery design
+----------------------------------------------------------------------------------------------------*/
+.ImgGallery
+{
+	width: 300px;
+	height: 300px;
+	border: 2px solid #0ca031;
+	/*border: 0px;*/
+}
+.gallery
+{
+	padding-top: 120px;
+	text-align: center;
+}
+.shoes
+{
+	padding-top: 60px;
+	width: 100%;
+	height: 100px;
+	border: 2px solid #0ca031;
+
+}
+.start
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	/*border: 1px solid #0ca031;*/
+
+}
+.name
+{
+	font-size: 30px;
+	font-family: 'Fredoka One', cursive;
+	text-shadow: 8px 4px 4px #ffffff;
+}
+.price
+{
+	margin-right: 0px;
+	margin-left: 16px;
+	font-size: 20px;
+	color: #6c7005;
+}
+.rating
+{
+	margin-left: 0px; 
+	margin-right: 0px;
+}
+.details
+{
+	border: 1px solid #256342;
+	background-color:#eff2f1;
+	padding: 0px 0px;
+	margin-top: 0px;
+	overflow: hidden;
+
+	
+}
+/* rating based color change
+----------------------------------------------------------------------------------------------------*/
+.good
+{
+	font-size: 20px;
+	color: #10a01c;
+}
+.average
+{
+	font-size: 20px;
+	color: #bece10;
+}
+.below
+{
+	
+	font-size: 20px;
+	color: #ce2d10;
+}
+.Max
+{
+	font-size: 20px;
+	color: #02630b;
+}
+ h4
+
+{
+	
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+}
+h3
+{
+font-family: 'Righteous', cursive;
+font-size: 35px;
+}
+
+/* Footer Design
+----------------------------------------------------------------------------------------------------*/
+footer
+{
+	width: 100%;
+	height: 120px;
+	background:#b3c6c6;
+	text-align: center;
+	margin:auto;
+	opacity: 0.9;
+}
+
+footer i
+{
+	padding: 10px 10px;
+	text-align: center;
+	text-shadow: 2px 2px 4px #ffffff;
+
+}
+.follow
+{
+	font-size: 15px;
+	font-family: 'Fredoka One', cursive;
+
+}
+/* font awosame logos design
+----------------------------------------------------------------------------------------------------*/
+footer  .fa-google-plus
+{
+	color:#f42202;
+}
+footer  .fa-facebook
+{
+	color:#061799;
+}
+footer  .fa-twitter
+{
+	color:#2defef;
+}
+
+footer  .fa-linkedin-square
+{
+	color:#236299;
+}
