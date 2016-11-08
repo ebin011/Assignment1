@@ -157,12 +157,14 @@ label
 	padding-bottom: 15px;
 	/*border: 1px solid #0ca031;*/
 
-}
+}/* Name price tag rating part design
+----------------------------------------------------------------------------------------------------*/
 .name
 {
 	font-size: 30px;
 	font-family: 'Fredoka One', cursive;
 	text-shadow: 8px 4px 4px #ffffff;
+	opacity: 0.9;
 }
 .price
 {
@@ -170,11 +172,13 @@ label
 	margin-left: 16px;
 	font-size: 20px;
 	color: #6c7005;
+	opacity: 0.9;
 }
 .rating
 {
 	margin-left: 0px; 
 	margin-right: 0px;
+	opacity: 0.9;
 }
 .details
 {
