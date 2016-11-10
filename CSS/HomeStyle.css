@@ -52,7 +52,7 @@ body
 	display: block;
 	/*color: #023332;*/
 	text-decoration: none;
-	padding: 14px 16px;
+	padding: 18px 16px;
 	border-right: 1px solid #EEE;
 }
 li a
@@ -108,8 +108,17 @@ figure
 }
 .firstDivision_data ul li,p
 {
+	list-style: none;
 	font-family: 'Abhaya Libre', serif;
 	font-weight: bold;
+}
+.firstDivision_data ul li
+{
+	padding: 5px 5px;
+}
+li
+{
+	    padding-top: 10px;
 }
 /* Hero Unit Design
 ----------------------------------------------------------------------------------------------------*/
@@ -150,7 +159,7 @@ h5
 }
 h6
 {
-	margin: 
+	margin-bottom: 0px;
 }
 
 span
@@ -214,6 +223,7 @@ footer
 	background:#b3c6c6;
 	text-align: center;
 	margin:auto;
+	margin-bottom: 0px;
 }
 
 footer i
